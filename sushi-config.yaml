@@ -2,7 +2,7 @@
 id: translations
 canonical: https://example.com
 name: Example
-title: Mona FHIR Implementation Guide
+title: Sample FHIR Implementation Guide
 status: draft
 version: 0.0.1
 fhirVersion: 4.0.1
