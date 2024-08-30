@@ -22,8 +22,8 @@ msgstr "OK"
 
 #: CodeSystem.concept.definition
 #. The formal definition of the concept. The code system resource does not make formal definitions required, because of the prevalence of legacy systems. However, they are highly recommended, as without them there is no formal meaning associated with the concept.
-msgid "La risposta è OK, come previsto."
-msgstr ""
+msgid "Answer is OK, as expected."
+msgstr "La risposta è OK, come previsto."
 
 #: CodeSystem.concept.display
 #. A human readable string that is the recommended default way to present this concept to a user.
