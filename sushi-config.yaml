@@ -1,0 +1,15 @@
+---
+id: translations
+canonical: https://example.com
+name: Example
+title: Mona FHIR Implementation Guide
+status: draft
+version: 0.0.1
+fhirVersion: 4.0.1
+copyrightYear: 2024+
+releaseLabel: ci-build
+parameters:
+  i18n-default-lang: 
+    - en
+  i18n-lang: it
+  translation-supplements: input/translations

@@ -1,0 +1,117 @@
+# en -> it
+
+#: CanonicalResource.name
+#. A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+msgid "Example"
+msgstr ""
+
+#: CanonicalResource.title
+#. A short, descriptive, user-friendly title for the implementation guide.
+msgid "Mona FHIR Implementation Guide"
+msgstr ""
+
+#: ImplementationGuide.dependsOn.version
+#. The version of the IG that is depended on, when the correct version is required to understand the IG correctly.
+msgid "6.0.2"
+msgstr ""
+
+#: ImplementationGuide.dependsOn.version
+#. The version of the IG that is depended on, when the correct version is required to understand the IG correctly.
+msgid "5.1.0"
+msgstr ""
+
+#: ImplementationGuide.definition.resource.name
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgid "Administration-Method"
+msgstr ""
+
+#: ImplementationGuide.definition.resource.description
+#. A description of the reason that a resource has been included in the implementation guide.
+msgid "Basic answers for any kind of questions."
+msgstr ""
+
+#: ImplementationGuide.definition.page.title
+#. A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
+msgid "Table of Contents"
+msgstr ""
+
+#: ImplementationGuide.definition.page.title
+#. A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
+msgid "Home"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/capabilities"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/examples"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/extensions"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/models"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/operations"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/profiles"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/resources"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/vocabulary"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/maps"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/testing"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/history"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "fsh-generated/resources"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "template/config"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input/images"
+msgstr ""
+
+#: ImplementationGuide.definition.parameter.value
+#. Value for named type.
+msgid "input-cache/txcache"
+msgstr ""
+
